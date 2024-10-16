@@ -1,0 +1,21 @@
+# Xcode
+*.xcuserdatad
+*.lock
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.opensdf
+*.opendb
+
+# macOS
+.DS_Store
+
+
