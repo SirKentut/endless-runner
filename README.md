@@ -69,6 +69,27 @@ git clone https://github.com/your-username/endless-runner.git
 
 ```
 
+## How to Contribute
+### Working on the code
+
+- Navigate to the `Source/EndlessRunner` directory.
+- Open files like `EndlessRunnerCharacter.cpp` or `EndlessRunnerGameMode.cpp` to add or modify game logic.
+- After making changes, follow the standard git flow to commit and push changes:
+
+```bash
+git add <file_name(s)> or "." 
+git commit -m "Your commit message"
+git push origin main
+```
+
+### Pull Requests (For now optional, high rec)
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch-name`.
+3. Make your changes.
+4. Commit your changes: `git commit -m 'Add some feature'`.
+5. Push to the branch: `git push origin feature-branch-name`.
+6. Submit a pull request! 
+
 ## Important Notes
 
 1. **Cross-Platform Collaboration:** This project is set up to be cross-platform. Both macOS and Windows users can work on the project. Make sure your teammates install the proper IDE and Unreal Engine version.
