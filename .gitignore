@@ -18,4 +18,23 @@ Build/
 # macOS
 .DS_Store
 
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
+# Unreal Engine for Windows
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.opensdf
+*.opendb
+*.pdb
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln
+*.sln.docstates
