@@ -17,7 +17,8 @@ The objective is to avoid incoming obstacles and keep running as far as possible
 
 ## Tech Stack
 - **OpenGL** for 3D rendering
-- **Unreal Engine 5** for game development
+- **[Unreal Engine](https://www.unrealengine.com/en-US)
+ 5** for game development
 - **C++** for core game mechanics
 - **Xcode** (for macOS users) or **Visual Studio** (for Windows users) as the IDE
 - **GitHub** for version control
