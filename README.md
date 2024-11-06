@@ -29,7 +29,7 @@ The objective is to avoid incoming obstacles and keep running as far as possible
 To start working on this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/endless-runner.git
+git clone https://github.com/SirKentut/endless-runner.git
 ```
 
 ### Unreal Engine Setup
